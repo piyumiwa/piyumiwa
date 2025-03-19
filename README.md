@@ -1,4 +1,4 @@
-![cover](images/cover_1.png)
+![cover](images/cover_2.png)
 
 Welcome to my profile! 
 
