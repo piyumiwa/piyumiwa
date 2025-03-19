@@ -1,8 +1,8 @@
 ![cover](images/cover_2.png)
 
-Welcome to my profile! 
+Welcome to my profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
 
-I am Piyumi and I am glad to see you here. 
+I am Piyumi and I am glad to see you here. <img src="https://emojis.slackmojis.com/emojis/images/1710140468/90621/clapclap-e.gif?1710140468" width="30" />
 
 ## A little bit about myself
 
