@@ -1,4 +1,4 @@
-![cover](images/cover_2.png)
+![cover](images/cover_3.png)
 
 Welcome to my profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
 
